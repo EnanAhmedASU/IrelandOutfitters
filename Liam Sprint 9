@@ -1,0 +1,8 @@
+In the lead up to this sprint, the sponsor reported multiple issues with the site. Rather than developing new features, I focused on addressing issues in the site currently.
+
+The first issue spotted was a handful of broken links. I fixed this issue and also began investigating additional areas of the website for more according to our test plan.
+Additionally, the site language was inconsistent and needed to be changed. Specifically, the sponsor desired all mentions of "shop" to be changed to "rent equipment".
+I completed this task and looked for additional inconsistencies in wording across the site, only fixing a few minor errors.
+
+Because of the issues found in the site, I began to perform additional testing (not for validation) to ensure that the final validation run operates as desired.
+Some changes I made during this included minor wording fixes and button issues, but overall no major breaks were detected in testing. There remain features left to implement, however.
